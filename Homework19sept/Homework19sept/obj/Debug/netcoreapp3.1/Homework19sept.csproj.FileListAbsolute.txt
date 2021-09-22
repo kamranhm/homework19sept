@@ -1,0 +1,13 @@
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Homework19sept\Homework19sept\Homework19sept\obj\Debug\netcoreapp3.1\Homework19sept.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Homework19sept\Homework19sept\Homework19sept\obj\Debug\netcoreapp3.1\Homework19sept.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Homework19sept\Homework19sept\Homework19sept\obj\Debug\netcoreapp3.1\Homework19sept.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Homework19sept\Homework19sept\Homework19sept\obj\Debug\netcoreapp3.1\Homework19sept.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Homework19sept\Homework19sept\Homework19sept\bin\Debug\netcoreapp3.1\Homework19sept.exe
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Homework19sept\Homework19sept\Homework19sept\bin\Debug\netcoreapp3.1\Homework19sept.deps.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Homework19sept\Homework19sept\Homework19sept\bin\Debug\netcoreapp3.1\Homework19sept.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Homework19sept\Homework19sept\Homework19sept\bin\Debug\netcoreapp3.1\Homework19sept.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Homework19sept\Homework19sept\Homework19sept\bin\Debug\netcoreapp3.1\Homework19sept.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Homework19sept\Homework19sept\Homework19sept\bin\Debug\netcoreapp3.1\Homework19sept.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Homework19sept\Homework19sept\Homework19sept\obj\Debug\netcoreapp3.1\Homework19sept.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Homework19sept\Homework19sept\Homework19sept\obj\Debug\netcoreapp3.1\Homework19sept.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\Projects\csharp\Homework19sept\Homework19sept\Homework19sept\obj\Debug\netcoreapp3.1\Homework19sept.genruntimeconfig.cache
